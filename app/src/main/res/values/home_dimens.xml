@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="card_radius">4dp</dimen>
+    <dimen name="imgViewHeight">130dp</dimen>
+    <dimen name="tamanioTitulo">20sp</dimen>
+    <dimen name="tamanioSubtitulo">15sp</dimen>
+    <dimen name="marginHomeSubtitulo">10dp</dimen>
+    <dimen name="card_elevation">15dp</dimen>
+
+</resources>
