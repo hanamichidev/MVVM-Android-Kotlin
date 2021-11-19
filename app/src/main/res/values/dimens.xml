@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="platzi_logo_height">24dp</dimen>
+    <dimen name="platzi_toolbar_height">30dp</dimen>
+
+</resources>
