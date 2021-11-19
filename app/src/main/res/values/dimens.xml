@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- General UI Dimens -->
+
     <dimen name="platzi_logo_height">24dp</dimen>
     <dimen name="platzi_toolbar_height">30dp</dimen>
+    <dimen name="cardCornerRadius">4dp</dimen>
+    <dimen name="altoImageViewHome">150dp</dimen>
 
 </resources>
